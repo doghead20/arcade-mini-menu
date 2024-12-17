@@ -89,6 +89,7 @@ namespace miniMenu {
         item9?: MenuItem,
         item10?: MenuItem,
         item11?: MenuItem,
+        item12?: MenuItem,
         item13?: MenuItem,
         item14?: MenuItem,
         item15?: MenuItem,
