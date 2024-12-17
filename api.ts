@@ -39,6 +39,24 @@ namespace miniMenu {
      * @param item10 a MenuItem to include in the array
      * @param item11 a MenuItem to include in the array
      * @param item12 a MenuItem to include in the array
+     * @param item13 a MenuItem to include in the array
+     * @param item14 a MenuItem to include in the array
+     * @param item15 a MenuItem to include in the array
+     * @param item16 a MenuItem to include in the array
+     * @param item17 a MenuItem to include in the array
+     * @param item18 a MenuItem to include in the array
+     * @param item19 a MenuItem to include in the array
+     * @param item20 a MenuItem to include in the array
+     * @param item21 a MenuItem to include in the array
+     * @param item22 a MenuItem to include in the array
+     * @param item23 a MenuItem to include in the array
+     * @param item24 a MenuItem to include in the array
+     * @param item25 a MenuItem to include in the array
+     * @param item26 a MenuItem to include in the array
+     * @param item27 a MenuItem to include in the array
+     * @param item28 a MenuItem to include in the array
+     * @param item29 a MenuItem to include in the array
+     * @param item30 a MenuItem to include in the array
      * @returns A MenuSprite
      */
     //% blockId=mini_menu_show_menu
