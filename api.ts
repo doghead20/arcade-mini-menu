@@ -25,7 +25,7 @@ namespace miniMenu {
     }
 
     /**
-     * Creates a MenuSprite with up to 12 MenuItems. If you need more than 12 items, use `create menu from array` instead.
+     * Creates a MenuSprite with up to 30 MenuItems. If you need more than 30 items, use `create menu from array` instead.
      *
      * @param item1 a MenuItem to include in the array
      * @param item2 a MenuItem to include in the array
