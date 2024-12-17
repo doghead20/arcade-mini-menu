@@ -56,6 +56,24 @@ namespace miniMenu {
     //% item10.shadow=mini_menu_create_menu_item
     //% item11.shadow=mini_menu_create_menu_item
     //% item12.shadow=mini_menu_create_menu_item
+    //% item13.shadow=mini_menu_create_menu_item
+    //% item14.shadow=mini_menu_create_menu_item
+    //% item15.shadow=mini_menu_create_menu_item
+    //% item16.shadow=mini_menu_create_menu_item
+    //% item17.shadow=mini_menu_create_menu_item
+    //% item18.shadow=mini_menu_create_menu_item
+    //% item19.shadow=mini_menu_create_menu_item
+    //% item20.shadow=mini_menu_create_menu_item
+    //% item21.shadow=mini_menu_create_menu_item
+    //% item22.shadow=mini_menu_create_menu_item
+    //% item23.shadow=mini_menu_create_menu_item
+    //% item24.shadow=mini_menu_create_menu_item
+    //% item25.shadow=mini_menu_create_menu_item
+    //% item26.shadow=mini_menu_create_menu_item
+    //% item27.shadow=mini_menu_create_menu_item
+    //% item28.shadow=mini_menu_create_menu_item
+    //% item29.shadow=mini_menu_create_menu_item
+    //% item30.shadow=mini_menu_create_menu_item
     //% group="Create"
     //% weight=100
     //% help=github:arcade-mini-menu/docs/create-menu
@@ -71,7 +89,24 @@ namespace miniMenu {
         item9?: MenuItem,
         item10?: MenuItem,
         item11?: MenuItem,
-        item12?: MenuItem,
+        item13?: MenuItem,
+        item14?: MenuItem,
+        item15?: MenuItem,
+        item16?: MenuItem,
+        item17?: MenuItem,
+        item18?: MenuItem,
+        item19?: MenuItem,
+        item20?: MenuItem,
+        item21?: MenuItem,
+        item22?: MenuItem,
+        item23?: MenuItem,
+        item24?: MenuItem,
+        item25?: MenuItem,
+        item26?: MenuItem,
+        item27?: MenuItem,
+        item28?: MenuItem,
+        item29?: MenuItem,
+        item30?: MenuItem,
     ) {
         _init();
 
@@ -89,6 +124,24 @@ namespace miniMenu {
             item10,
             item11,
             item12,
+            item13,
+            item14,
+            item15,
+            item16,
+            item17,
+            item18,
+            item19,
+            item20,
+            item21,
+            item22,
+            item23,
+            item24,
+            item25,
+            item26,
+            item27,
+            item28,
+            item29,
+            item30,
         ].filter(i => !!i));
         m.setButtonEventsEnabled(true);
 
